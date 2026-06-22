@@ -155,3 +155,6 @@ For future iterations where TTS or voice overs are downloaded from a remote URL:
 
 ## 🤖 AI Usage Disclosure
 This project was developed with the assistance of Antigravity, an AI coding assistant. AI was used to design clean state architecture (Riverpod unified notifier), create custom UI vector styles, implement haptic-feedback helpers, write the shake animation triggers, and conduct performance optimization auditing.
+
+# peblo-ai-story-buddy
+Peblo Internship Challenge – A Flutter-based AI Story Buddy with TTS storytelling, interactive quizzes, Riverpod state management, and engaging child-friendly UI.
